@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working like Junior Software Developer
-- 🌱 I’m currently learning about Cloud Computing
+- 🌱 I’m currently learning about Python
 - 💬 Ask me about: .NET, Java, JS and Backend technologies.
 - 📫 How to reach me: hughhnp@gmail.com
 
